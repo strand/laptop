@@ -6,7 +6,7 @@ Laptop is a set of scripts to get your Max OS X laptop set up as a Rails develop
 Install
 -------
 
-First, install [GCC for OS X](https://github.com/kennethreitz/osx-gcc-installer). (requires OS X 10.6 or higher)
+First, install [GCC for OS X](https://github.com/kennethreitz/osx-gcc-installer) (requires OS X 10.6 or higher) or [Command Line Tools for Xcode](http://developer.apple.com/downloads) (requires OS X 10.7.3 or higher).
 
 Then, run this one-liner:
 
